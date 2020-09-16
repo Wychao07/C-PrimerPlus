@@ -1,3 +1,4 @@
+/*
 #include<iostream>
 int main()
 {
@@ -7,3 +8,4 @@ int main()
 	cout << "You won't regret it!" << endl;
 	return 0;
 }
+*/
