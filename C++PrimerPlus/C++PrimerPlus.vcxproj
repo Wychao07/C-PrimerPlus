@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="carrots.cpp" />
+    <ClCompile Include="convert.cpp" />
     <ClCompile Include="getinfo.cpp" />
     <ClCompile Include="myfirst.cpp" />
     <ClCompile Include="ourfunc.cpp" />
