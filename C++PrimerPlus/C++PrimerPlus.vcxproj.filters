@@ -21,5 +21,11 @@
     <ClCompile Include="carrots.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="getinfo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sqrt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

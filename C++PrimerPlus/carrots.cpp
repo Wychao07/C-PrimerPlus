@@ -1,3 +1,4 @@
+/*
 #include<iostream>
 int main()
 {
@@ -12,3 +13,4 @@ int main()
 	cout << "Crunch,crunch.Now I have " << carrots << " carrots." << endl;
 	return 0;
 }
+*/
