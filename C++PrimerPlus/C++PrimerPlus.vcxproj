@@ -126,6 +126,7 @@
     <ClCompile Include="carrots.cpp" />
     <ClCompile Include="getinfo.cpp" />
     <ClCompile Include="myfirst.cpp" />
+    <ClCompile Include="ourfunc.cpp" />
     <ClCompile Include="sqrt.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

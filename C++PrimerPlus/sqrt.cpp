@@ -1,3 +1,4 @@
+/*
 #include<iostream>
 #include<cmath>
 
@@ -14,3 +15,4 @@ int main()
 		<< " feet to the side." << endl;
 	return 0;
 }
+*/
